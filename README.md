@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Angelo Jensen</h1>
-<h3 align="left">I am currently a CS major @ UCSD with a passion for making software and art.</h3>
+<h3 align="left">I am currently a CS major @ UCSD with a passion for creating!</h3>
 
 - Currently working on **ASPEN**, a jupyter lab extension used to make working with code snippets easier.
 - Maintaining [TritonSEA](https://triton-sea.com/), an enrollment platform for UCSD students.
