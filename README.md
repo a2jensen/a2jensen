@@ -2,6 +2,7 @@
 <h3 align="left">CS @ UCSD</h3>
 
 Currently working on **ASPEN**, a jupyter lab extension used to make working with code snippets easier.
+<br></br>
 Maintaining [TritonSEA](https://triton-sea.com/), an enrollment platform for UCSD students.
 
 <h3 align="left">Connect with me:</h3>
