@@ -1,10 +1,10 @@
 <h1 align="left">Hello, I'm Angelo!</h1>
 <h3 align="left">CS @ UCSD</h3>
 
-- Currently working on **ASPEN**, a jupyter lab extension used to make working with code snippets easier.
-- Maintaining [TritonSEA](https://triton-sea.com/), an enrollment platform for UCSD students.
+Currently working on **ASPEN**, a jupyter lab extension used to make working with code snippets easier.
+Maintaining [TritonSEA](https://triton-sea.com/), an enrollment platform for UCSD students.
 
-<h3 align="left">Connect with me through:</h3>
+<h3 align="left">Connect with me:</h3>
 
 - [Personal Website](https://www.angelo-j.com/)
 - a2jensen@ucsd.edu
