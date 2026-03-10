@@ -5,7 +5,7 @@ My name is Angelo, currently a senior at UCSD majoring in Computer Science.
 
 I have interests in the areas of developing large scale systems, web development, AI, data infrastructure, networking, and building helpful tools for everyday use!
 
-In my free time you'll find me reading, playing poker, gyming, or learning new technologies on the side via side projects :D
+In my free time you'll find me reading, playing poker, gyming, or learning new technologies on the side via personal projects :D
 
 ## Contact
 - personal website: https://angelo-j.com
