@@ -16,6 +16,8 @@ In my free time you'll find me reading, playing poker, gyming, or learning new t
 ### Experience
 <details>
   <summary>Software Engineer at Viasat</summary>
+</details>
+  
 <details>
   <summary>Software Engineer Intern at Viasat</summary>
 </details>
